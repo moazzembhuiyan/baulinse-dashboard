@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:38BDF8&height=180&section=header&text=Baulinse%20Admin&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Project%20%26%20field-photo%20management&descAlignY=58&descSize=16" alt="Baulinse Admin" />
+<img src=".github/banner.svg" width="100%" alt="Baulinse Admin — Project & field-photo management" />
 
 <p><b>📊 Admin Dashboard</b></p>
 
